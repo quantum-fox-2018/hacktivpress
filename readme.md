@@ -38,4 +38,8 @@ Buatlah aplikasi client side untuk API yang sudah kita buat sebelumnya, disini k
 
 Jika kamu sudah selesai mengerjakan sampai  RELEASE 3, silakan tambahkan validations baik pada server side maupun client-side. validations yang diperlukan antara lain format data yang dimasukkan untuk masing-masing field haruslah sesuai. Dan user hanya bisa edit, dan delete article miliknya sendiri.
 
-## RELEASE 5 Refactor
+## RELEASE 5 Upload Image
+
+Terlalu mudah? Silakan tambahkan fitur untuk upload featured image pada setiap artikel. File hasil upload boleh kalian simpan baik itu di server ataupun menggunakan penyimpanan cloud seperti Google Cloud Storage dan/atau Amazon S3.
+
+## RELEASE 6 Refactor
